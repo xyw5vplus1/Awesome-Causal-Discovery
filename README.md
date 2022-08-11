@@ -5,8 +5,12 @@
 ### Continuous Optimization 
 
 
-|                            Title                             |                           Appendix                           |                     Code                      | Conference/Journal | Year |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------: | :----------------: | :--: |
-| [NOTEARS](https://proceedings.neurips.cc/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Paper.pdf) | [Appendix](https://proceedings.neurips.cc/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Supplemental.zip) | [Github](https://github.com/xunzheng/notears) |      NeurIPS       | 2018 |
+|                            Title                             |                          Supplement                          |                       Code                        | Conference/Journal | Year |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: | :----------------: | :--: |
+| [NOTEARS](https://proceedings.neurips.cc/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Supplemental.zip) |   [Github](https://github.com/xunzheng/notears)   |      NeurIPS       | 2018 |
+| [DAG-GNN](http://proceedings.mlr.press/v97/yu19a/yu19a.pdf)  | [Supplement](http://proceedings.mlr.press/v97/yu19a/yu19a-supp.pdf) | [Github](https://github.com/fishmoon1234/DAG-GNN) |        ICML        | 2019 |
+|                                                              |                                                              |                                                   |                    |      |
+
+
 
 
