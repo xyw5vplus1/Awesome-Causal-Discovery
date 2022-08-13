@@ -2,8 +2,23 @@
 
 ## Causal Discovery
 
-### Continuous Optimization 
+### Constraint-based
 
+
+
+### Score-based
+
+ #### Combinatorial Optimization
+
+| Title | Supplement | Code | Conference/Journal | Year |
+| :---: | :--------: | :--: | :----------------: | :--: |
+|       |            |      |                    |      |
+|       |            |      |                    |      |
+|       |            |      |                    |      |
+
+
+
+#### Continuous Optimization 
 
 |                            Title                             |                          Supplement                          |                       Code                        | Conference/Journal | Year |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: | :----------------: | :--: |
@@ -15,8 +30,23 @@
 
 
 
+### Hybrid/ Super-structure based
 
 
 
+|                            Title                             |                          Supplement                          |                             Code                             | Conference/Journal | Year |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :--: |
+| [MMHC](https://link.springer.com/article/10.1007/s10994-006-6889-7) |                              ——                              | [bnlearn](https://www.bnlearn.com/documentation/man/hybrid.html) |  Machine Learning  | 2006 |
+| [COS](https://www.jmlr.org/papers/volume9/perrier08a/perrier08a.pdf) |                              ——                              |                          Not Found                           |        JMLR        | 2008 |
+|   https://auai.org/uai2014/proceedings/individuals/292.pdf   |                                                              |                                                              |        UAI         | 2014 |
+| [Local A*](https://proceedings.neurips.cc/paper/2021/file/a9b4ec2eb4ab7b1b9c3392bb5388119d-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2021/file/a9b4ec2eb4ab7b1b9c3392bb5388119d-Supplemental.pdf) |     [Github](https://github.com/ignavierng/local-astar)      |      NeurIPS       | 2021 |
+| [The Complexity of Bayesian Network Learning: Revisiting the Superstructure](https://proceedings.neurips.cc/paper/2021/file/040a99f23e8960763e680041c601acab-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2021/file/040a99f23e8960763e680041c601acab-Supplemental.pdf) |                              ——                              |      NeurIPS       | 2021 |
 
+
+
+### Function Causal Model
+
+
+
+ 
 
