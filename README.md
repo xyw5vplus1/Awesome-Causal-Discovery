@@ -66,6 +66,13 @@
 
 ## Causal Discovery Theoretical Analysis
 
+### Score-based
+
+#### Continuous Optimization 
+
+|                            Title                             |                          Supplement                          |                             Code                             | Conference/Journal | Year |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :--: |
+| [On the Convergence of Continuous Constrained Optimization for Structure Learning]([https://proceedings.neurips.cc/paper/2021/file/a9b4ec2eb4ab7b1b9c3392bb5388119d-Paper.pdf](https://proceedings.mlr.press/v151/ng22b/ng22b.pdf)) | —— |     [Github]([https://github.com/ignavierng/local-astar](https://github.com/ignavierng/notears-convergence))      |      AISTATS       | 2022 |
 
 
 ### Hybrid/ Super-structure based
