@@ -72,7 +72,7 @@
 
 |                            Title                             |                          Supplement                          |                             Code                             | Conference/Journal | Year |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :--: |
-| [On the Convergence of Continuous Constrained Optimization for Structure Learning](https://proceedings.mlr.press/v151/ng22b/ng22b.pdf) | —— |     [Github]([https://github.com/ignavierng/local-astar](https://github.com/ignavierng/notears-convergence))      |      AISTATS       | 2022 |
+| [On the Convergence of Continuous Constrained Optimization for Structure Learning](https://proceedings.mlr.press/v151/ng22b/ng22b.pdf) | —— |     [Github](https://github.com/ignavierng/notears-convergence)      |      AISTATS       | 2022 |
 
 
 ### Hybrid/ Super-structure based
