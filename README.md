@@ -50,6 +50,8 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :--: |
 | [MMHC](https://link.springer.com/article/10.1007/s10994-006-6889-7) |                              ——                              | [bnlearn](https://www.bnlearn.com/documentation/man/hybrid.html) |  Machine Learning  | 2006 |
 | [COS](https://www.jmlr.org/papers/volume9/perrier08a/perrier08a.pdf) |                              ——                              |                          Not Found                           |        JMLR        | 2008 |
+| [High-Dimensional Learning of Linear Causal Networks via
+Inverse Covariance Estimation](https://jmlr.org/papers/volume15/loh14a/loh14a.pdf) |                                                              |                                                              |        JMLR         | 2014 |
 | [Finding Optimal Bayesian Network Structures with Constraints Learned from Data](https://auai.org/uai2014/proceedings/individuals/292.pdf) |                                                              |                                                              |        UAI         | 2014 |
 | [DARING](https://dl.acm.org/doi/pdf/10.1145/3447548.3467439) | —— |        Not Found         |      KDD       | 2021 |
 | [Local A*](https://proceedings.neurips.cc/paper/2021/file/a9b4ec2eb4ab7b1b9c3392bb5388119d-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2021/file/a9b4ec2eb4ab7b1b9c3392bb5388119d-Supplemental.pdf) |     [Github](https://github.com/ignavierng/local-astar)      |      NeurIPS       | 2021 |
