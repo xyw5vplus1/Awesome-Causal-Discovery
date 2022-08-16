@@ -74,7 +74,7 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :--: |
 
 | [Globally optimal score-based learning of directed
-acyclic graphs in high-dimensions](https://proceedings.mlr.press/v151/ng22b/ng22b.pdf](https://proceedings.neurips.cc/paper/2019/file/3430095c577593aad3c39c701712bcfe-Paper.pdf) | —— |     ——      |      NeurIPS       | 2019 |
+acyclic graphs in high-dimensions](https://proceedings.neurips.cc/paper/2019/file/3430095c577593aad3c39c701712bcfe-Paper.pdf) | —— |     ——      |      NeurIPS       | 2019 |
 | [On the Convergence of Continuous Constrained Optimization for Structure Learning](https://proceedings.mlr.press/v151/ng22b/ng22b.pdf) | —— |     [Github](https://github.com/ignavierng/notears-convergence)      |      AISTATS       | 2022 |
 
 
