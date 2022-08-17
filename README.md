@@ -75,7 +75,7 @@
 
 |                            Title                             |                          Supplement                          |                             Code                             | Conference/Journal | Year |
 | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :--: |
-| [Globally optimal score-based learning of directed acyclic graphs in high-dimensions](https://proceedings.neurips.cc/paper/2019/file/3430095c577593aad3c39c701712bcfe-Paper.pdf) | —— |     ——      |      NeurIPS       | 2019 |
+| [Globally Optimal Score-based Learning of Directed Acyclic Graphs in High-dimensions](https://proceedings.neurips.cc/paper/2019/file/3430095c577593aad3c39c701712bcfe-Paper.pdf) | —— |     ——      |      NeurIPS       | 2019 |
 | [On the Convergence of Continuous Constrained Optimization for Structure Learning](https://proceedings.mlr.press/v151/ng22b/ng22b.pdf) | —— |     [Github](https://github.com/ignavierng/notears-convergence)      |      AISTATS       | 2022 |
 
 
@@ -84,5 +84,5 @@
 |                            Title                             |                          Supplement                          | Code | Conference/Journal | Year |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :----------------: | :--: |
 | [ARGES](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-6A/High-dimensional-consistency-in-score-based-and-hybrid-structure-learning/10.1214/17-AOS1654.full?tab=ArticleLink) | [Supplement](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-6A/High-dimensional-consistency-in-score-based-and-hybrid-structure-learning/10.1214/17-AOS1654.full?tab=ArticleLinkSupplemental) |        Not Found         |      Annals of Statistics       | 2018 |
-| [The Complexity of Bayesian Network Learning: Revisiting the Superstructure](https://proceedings.neurips.cc/paper/2021/file/040a99f23e8960763e680041c601acab-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2021/file/040a99f23e8960763e680041c601acab-Supplemental.pdf) |  ——  |      NeurIPS       | 2021 |
+| [The Complexity of Bayesian Network Learning: Revisiting the Super-structure](https://proceedings.neurips.cc/paper/2021/file/040a99f23e8960763e680041c601acab-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2021/file/040a99f23e8960763e680041c601acab-Supplemental.pdf) |  ——  |      NeurIPS       | 2021 |
 
