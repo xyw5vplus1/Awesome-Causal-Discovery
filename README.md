@@ -70,6 +70,7 @@
 
 | Title | Supplement | Code | Conference/Journal | Year |
 | :---: | :--------: | :--: | :----------------: | :--: |
+| [LiNGAM](https://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)      |    ——    |  [Github (from CMU-phil/causal-learn)](https://github.com/cmu-phil/causal-learn/blob/main/causallearn/search/FCMBased/lingam/ica_lingam.py)  |     JMLR      |  2006  |
 | [ANM](https://papers.nips.cc/paper/2008/file/f7664060cc52bc6f3d620bcedc94a4b6-Paper.pdf)      |    ——    |  [Github (from CMU-phil/causal-learn)](https://github.com/cmu-phil/causal-learn/blob/main/causallearn/search/FCMBased/ANM/ANM.py)  |     NeurIPS      |  2008  |
 | [PNL](https://dl.acm.org/doi/pdf/10.5555/1795114.1795190)      |    ——    |  [Github (from CMU-phil/causal-learn)](https://github.com/cmu-phil/causal-learn/blob/main/causallearn/search/FCMBased/PNL/PNL.py)  |     UAI      |  2009  |
 
