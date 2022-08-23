@@ -1,4 +1,4 @@
-# Causal-Related-Papers
+# Awesome-Causal-Discovery
 
 
 ## Causal Discovery Surveys
