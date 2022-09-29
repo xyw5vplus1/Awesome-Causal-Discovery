@@ -84,7 +84,7 @@
 |                            Title                             |                          Supplement                          |                             Code                             | Conference/Journal | Year |
 | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :--: |
 | [Globally Optimal Score-based Learning of Directed Acyclic Graphs in High-dimensions](https://proceedings.neurips.cc/paper/2019/file/3430095c577593aad3c39c701712bcfe-Paper.pdf) | —— |     ——      |      NeurIPS       | 2019 |
-| [NOTEARS-KKTS](https://proceedings.neurips.cc/paper/2020/file/28a7602724ba16600d5ccc644c19bf18-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2020/file/28a7602724ba16600d5ccc644c19bf18-Supplemental.pdf) |        Not Found         |      NeurIPS       | 2020 |
+| [NOTEARS-KKTS](https://proceedings.neurips.cc/paper/2020/file/28a7602724ba16600d5ccc644c19bf18-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2020/file/28a7602724ba16600d5ccc644c19bf18-Supplemental.pdf) |        [GitHub](https://github.com/skypea/DAG_No_Fear)          |      NeurIPS       | 2020 |
 | [On the Convergence of Continuous Constrained Optimization for Structure Learning](https://proceedings.mlr.press/v151/ng22b/ng22b.pdf) | —— |     [Github](https://github.com/ignavierng/notears-convergence)      |      AISTATS       | 2022 |
 
 
