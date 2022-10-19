@@ -60,6 +60,7 @@
 | [ARGES](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-6A/High-dimensional-consistency-in-score-based-and-hybrid-structure-learning/10.1214/17-AOS1654.full?tab=ArticleLink) | [Supplement](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-6A/High-dimensional-consistency-in-score-based-and-hybrid-structure-learning/10.1214/17-AOS1654.full?tab=ArticleLinkSupplemental) |        Not Found         |      Annals of Statistics       | 2018 |
 | [DARING](https://dl.acm.org/doi/pdf/10.1145/3447548.3467439) | —— |        Not Found         |      KDD       | 2021 |
 | [Local A*](https://proceedings.neurips.cc/paper/2021/file/a9b4ec2eb4ab7b1b9c3392bb5388119d-Paper.pdf) | [Supplement](https://proceedings.neurips.cc/paper/2021/file/a9b4ec2eb4ab7b1b9c3392bb5388119d-Supplemental.pdf) |     [Github](https://github.com/ignavierng/local-astar)      |      NeurIPS       | 2021 |
+| [MAS](https://ojs.aaai.org/index.php/AAAI/article/view/20626) | —— |        Not Found         |      AAAI       | 2022 |
 
 
 
